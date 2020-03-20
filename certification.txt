@@ -1,1 +1,3 @@
-#start<split>link@aHR0cDovLzEyNS42NS40Ni4xNTY6MzQ1Lw==<split>
+infeat
+update:www.baidu.com
+down:www.bing.com
