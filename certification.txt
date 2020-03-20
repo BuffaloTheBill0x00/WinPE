@@ -1,3 +1,3 @@
 infect
-update:www.baidu.com
-down:www.bing.com
+update;www.baidu.com
+down;www.bing.com
